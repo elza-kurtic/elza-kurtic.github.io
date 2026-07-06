@@ -2,7 +2,7 @@
 <p>Elza Kurtic<br />
 Klausenergrund 28<br />44803 Bochum</p>
 <h2>Kontakt</h2>
-E-Mail: <a target="_blank" href="mailto:elza-kurtic.de">mailto:elza-kurtic.de</a><br />
+E-Mail: <a target="_blank" href="elza-kurtic.de">elza-kurtic.de</a><br />
 </p>
 <br /><br /><h2>Disclaimer – rechtliche Hinweise</h2>
 § 1 Warnhinweis zu Inhalten<br />
