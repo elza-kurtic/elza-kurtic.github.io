@@ -34,3 +34,5 @@ Credits:
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 [Impressum](IMPRESSUM.md)
+[Datenschutzverordnung](Datenschutzverordnung.md)
+
