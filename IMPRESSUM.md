@@ -1,12 +1,3 @@
-
-
-Klausenergrund 28
-44803 Bochum
-
-Kontakt
-E-Mail: elza-kurtic@alice.de
-
-
 <h2>Impressum</h2>
 <p>Elza Kurtic<br />
 Klausenergrund 28<br />44803 Bochum</p>
